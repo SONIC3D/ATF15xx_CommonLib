@@ -90,4 +90,40 @@ K CPLD
 F http://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
 $ENDCMP
 #
+$CMP ATF1508AS-xJx84
+D Microchip CPLD, 128 Macrocell, 5 V, PLCC-84
+K CPLD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf
+$ENDCMP
+#
+$CMP ATF1508ASL-xJx84
+D Microchip CPLD, 128 Macrocell, 5 V, Low Power, PLCC-84
+K CPLD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf
+$ENDCMP
+#
+$CMP ATF1508ASV-xJx84
+D Microchip CPLD, 128 Macrocell, 3V-3.6V, PLCC-84
+K CPLD
+F http://ww1.microchip.com/downloads/en/devicedoc/doc1408.pdf
+$ENDCMP
+#
+$CMP ATF1508ASVL-xJx84
+D Microchip CPLD, 128 Macrocell, 3V-3.6V, Low Power, PLCC-84
+K CPLD
+F http://ww1.microchip.com/downloads/en/devicedoc/doc1408.pdf
+$ENDCMP
+#
+$CMP Generic-ATF15xx-PLCC44
+D Microchip CPLD, Generic PLCC-44 package symbol
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP Generic-ATF15xx-PLCC84
+D Microchip CPLD, Generic PLCC-84 package symbol
+K CPLD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
